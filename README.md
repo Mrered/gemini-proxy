@@ -1,6 +1,6 @@
 
 # palm-proxy
-Google Gemini API proxy on Vercel Edge
+Google PaLM API proxy on Vercel Edge
 
 ## Deploy
 
